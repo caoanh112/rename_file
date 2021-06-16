@@ -1,6 +1,6 @@
 # rename_file
-Thay đổi tên file word, pdf theo định dạng: MSSV-Họ Tên
-Yêu cầu các file ban đầu phải bao gồm MSSV trong tên)
+- Thay đổi tên file word, pdf theo định dạng: MSSV-Họ Tên
+- Yêu cầu các file ban đầu phải bao gồm MSSV trong tên)
 
 1. chạy file .exe
 2. nhập đường dẫn danh sách lớp (Ví dụ: C:\danhsach\ds.xlsx)
